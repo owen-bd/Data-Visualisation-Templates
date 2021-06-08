@@ -1,5 +1,5 @@
 # DataVisualisationTemplates
-A Collection of Templates for Data Visualisation
+A Collection of Templates for Data Visualisation:
 
 * Bar Charts  
 * Dot Plots  
