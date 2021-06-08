@@ -1,4 +1,4 @@
-# DataVisualisationTemplates
+# Data Visualisation Templates
 A Collection of Templates for Data Visualisation:
 
 * Bar Charts  
