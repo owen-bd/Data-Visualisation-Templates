@@ -1,7 +1,7 @@
 # DataVisualisationTemplates
 A Collection of Templates for Data Visualisation
 
-Bar Charts
+Bar Charts /n
 Dot Plots
 Histograms
 Joy Plots
