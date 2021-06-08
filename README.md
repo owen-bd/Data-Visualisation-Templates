@@ -11,4 +11,6 @@ A Collection of Templates for Data Visualisation:
 * Scatterplots  
 * Swarm Plots  
 * Treemaps  
-* Violin Plots  
+* Violin Plots   
+<br>
+These do not include templates or functions for data cleaning or transformation, as it assumed this will be done prior.
